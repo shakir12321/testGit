@@ -1,1 +1,3 @@
 Welcome User
+What is your age user?
+Where are you from?
