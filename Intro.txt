@@ -1,3 +1,8 @@
+ 
 WElcome Sam
 This is India 
 I am from USA
+Welcome User
+What is your age user?
+Where are you from?
+ 
